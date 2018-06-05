@@ -1,4 +1,5 @@
 # clonetest
 clonetest
 # git branch test
-#creat branch is simple
++ create a new branch is quick and simple
+
